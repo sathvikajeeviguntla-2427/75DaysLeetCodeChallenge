@@ -7,4 +7,4 @@ class Solution:
                     a.append(i)
                     a.append(j)
                     break
-        return a 
+        return a
